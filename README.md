@@ -11,6 +11,6 @@ Contribution:
 3. Extensive experiments are conducted on multi-modal TC datasets to demonstrate the superiority of Phy-CoCo over the state-of-the-art TC estimation methods. The results highlight that Phy-CoCo is effective for both TC MSW and RMW estimation.
 
 ## Requirements 
-* python 3.8.5
-* Pytorch 1.11.0
+* python 3.8.8
+* Pytorch 1.1.0
 * CUDA 11.7
