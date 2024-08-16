@@ -3,7 +3,7 @@ The code of "Phy-CoCo: Physical Constraint-based Correlation Learning for Tropic
 
 ## Introduction
 
-![***Phy-CoCo_framework***](https://github.com/Zjut-MultimediaPlus/Phy-CoCo/tree/main/image/framework.jpg)
+![***Phy-CoCo_framework***](https://github.com/Zjut-MultimediaPlus/Phy-CoCo/blob/main/figs/phy-coco.png)
 
 Contribution:
 1. We proposed CoM based on Centrally Expanded Pooling (CEP) to model the correlation between the extracted features and the estimated attributes, fully exploring task-specific features.
