@@ -14,3 +14,7 @@ Contribution:
 * python 3.8.8
 * Pytorch 1.1.0
 * CUDA 11.7
+## Dataset
+通过网盘分享的文件：phycoco数据集
+链接: https://pan.baidu.com/s/11qnFtYeErHXH0VYNO7HRsA 提取码: coco 
+--来自百度网盘超级会员v1的分享
